@@ -12,4 +12,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
         //commit1 -- 기본구현
+    //commit2--기능 추가
 }
